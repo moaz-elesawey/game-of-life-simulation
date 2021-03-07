@@ -17,9 +17,9 @@ the visualization is done by the PyGame python library
 
 
 ### Screenshot
-![alt personal screenshots]('./screenshots/screenshot1.png')
-![alt personal screenshots]('./screenshots/screenshot2.png')
-![alt personal screenshots]('./screenshots/screenshot3.png')
+![alt personal screenshots](screenshots/screenshot1.png)
+![alt personal screenshots](screenshots/screenshot2.png)
+![alt personal screenshots](screenshots/screenshot3.png)
 
 ![alt how the game work](./screenshots/Gospers_glider_gun.gif)
 
