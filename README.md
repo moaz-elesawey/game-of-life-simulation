@@ -25,5 +25,5 @@ the visualization is done by the PyGame python library
 
 
 ### Other Recources
-[a link](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+[Conway Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
